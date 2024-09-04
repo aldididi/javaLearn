@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaLearn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BooleanTypeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharTypeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HackerrankIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Longest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotPrimitiveTypeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberTypeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestPalindromeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayTypeData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cobaArrayLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lengthAllWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lengthLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodReturnValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodVariableArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nestedLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pallindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiveMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringTypData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/testingSdet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variableTypeData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +149,7 @@
       <workItem from="1724750180096" duration="5897000" />
       <workItem from="1725007407743" duration="145000" />
       <workItem from="1725007686089" duration="4874000" />
-      <workItem from="1725353788985" duration="2833000" />
+      <workItem from="1725353788985" duration="3991000" />
     </task>
     <servers />
   </component>
