@@ -5,7 +5,10 @@ public class firstCharOfWords {
         Scanner s = new Scanner(System.in);
         String input = s.nextLine();
         firstCharOfWords1(input);
-       // printEachChar(input);
+        System.out.println("-------");
+       printEachChar(input);
+        System.out.println("-------");
+        lastCharOnWords(input);
 
     }
 
@@ -39,6 +42,32 @@ public class firstCharOfWords {
        for (int i = 0; i < s.length(); i++) {
            System.out.println(s.charAt(i));
        }
+    }
+
+    public static void printWithoutSpecificChar(String s){
+        /*
+        Condition: kalo ada 'a', jangan di-print
+        Input: aku dan dia
+        Output:
+        k
+        u
+
+        d
+        n
+
+        d
+        i
+*/
+        if (!s.contains("a")) {
+            System.out.println("ini ga ada huruf a");
+        } else {
+            for (int i = 0; i < s.length(); i++) {
+                char c = s.charAt(i);
+                if (c != 'a') {
+                    System.out.println(c);
+                }
+            }
+        }
     }
 }
 
