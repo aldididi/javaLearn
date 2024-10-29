@@ -4,11 +4,15 @@ public class firstCharOfWords {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String input = s.nextLine();
-        firstCharOfWords1(input);
-        System.out.println("-------");
-       printEachChar(input);
-        System.out.println("-------");
-        lastCharOnWords(input);
+//        firstCharOfWords1(input);
+//        System.out.println("-------");
+//       printEachChar(input);
+//        System.out.println("-------");
+//        lastCharOnWords(input);
+//        System.out.println("-------");
+//        printWithoutSpecificChar(input);
+
+        reverseChar(input);
 
     }
 
@@ -39,12 +43,12 @@ public class firstCharOfWords {
 
 
     public static void printEachChar(String s) {
-       for (int i = 0; i < s.length(); i++) {
-           System.out.println(s.charAt(i));
-       }
+        for (int i = 0; i < s.length(); i++) {
+            System.out.println(s.charAt(i));
+        }
     }
 
-    public static void printWithoutSpecificChar(String s){
+    public static void printWithoutSpecificChar(String s) {
         /*
         Condition: kalo ada 'a', jangan di-print
         Input: aku dan dia
@@ -68,6 +72,19 @@ public class firstCharOfWords {
                 }
             }
         }
+    }
+
+    public static void reverseChar(String s) {
+        for (int i =s.length()-1; i >= 0; i--) {
+            System.out.println(s.charAt(i));
+        }
+//        for (int i = s.length()-1 ; i < s.length(); i--) { --> this method do loop billions time
+//            if (i>=0){
+//
+//            } else {
+//                break;
+//            }
+//        }
     }
 }
 
