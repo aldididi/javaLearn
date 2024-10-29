@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/singleNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstCharOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstCharOfWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,7 @@
     "Application.lengthLastWord.executor": "Run",
     "Application.methodParameter.executor": "Run",
     "Application.palindrome.executor": "Run",
+    "Application.singleNumber.executor": "Run",
     "Application.testtetstss.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
@@ -82,7 +83,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.firstCharOfWords">
+  <component name="RunManager" selected="Application.singleNumber">
     <configuration name="Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prime" />
       <module name="javaLearn" />
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="palindrome" />
+    <configuration name="singleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleNumber" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.singleNumber" />
         <item itemvalue="Application.firstCharOfWords" />
         <item itemvalue="Application.lengthAllWords" />
         <item itemvalue="Application.lengthLastWord" />
         <item itemvalue="Application.Prime" />
-        <item itemvalue="Application.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,7 @@
       <workItem from="1726821773628" duration="5352000" />
       <workItem from="1727144370218" duration="1390000" />
       <workItem from="1729665613881" duration="757000" />
-      <workItem from="1730191136403" duration="2728000" />
+      <workItem from="1730191136403" duration="4733000" />
     </task>
     <servers />
   </component>
