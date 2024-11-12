@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
+//soal https://leetcode.com/problems/reverse-integer/description/
+
 public class singleNumber {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

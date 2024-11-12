@@ -4,14 +4,14 @@ public class firstCharOfWords {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String input = s.nextLine();
-//        firstCharOfWords1(input);
-//        System.out.println("-------");
-//       printEachChar(input);
-//        System.out.println("-------");
-//        lastCharOnWords(input);
-//        System.out.println("-------");
-//        printWithoutSpecificChar(input);
-
+        firstCharOfWords1(input);
+        System.out.println("-------");
+       printEachChar(input);
+        System.out.println("-------");
+        lastCharOnWords(input);
+        System.out.println("-------");
+        printWithoutSpecificChar(input);
+        System.out.println("-------");
         reverseChar(input);
 
     }
