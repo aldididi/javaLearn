@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SumInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestSequenceSDETtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumOfDigitz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test14Nov.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/firstCharOfWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/firstCharOfWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/singleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumInputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumOfDigitz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumOfDigitModulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,9 @@
     "Application.methodParameter.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.singleNumber.executor": "Run",
+    "Application.sumInputTest.executor": "Run",
     "Application.sumOfDigitz.executor": "Run",
+    "Application.test14Nov.executor": "Run",
     "Application.testtetstss.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
@@ -90,16 +90,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumInput">
+  <component name="RunManager" selected="Application.test14Nov">
     <configuration name="SumInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SumInput" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="firstCharOfWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstCharOfWords" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,15 +105,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="singleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleNumber" />
+    <configuration name="sumInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumInputTest" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfDigitz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumOfDigitz" />
+    <configuration name="sumOfDigitModulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOfDigitModulo" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test14Nov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test14Nov" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test14Nov" />
+        <item itemvalue="Application.sumInputTest" />
         <item itemvalue="Application.SumInput" />
-        <item itemvalue="Application.sumOfDigitz" />
+        <item itemvalue="Application.sumOfDigitModulo" />
         <item itemvalue="Application.longestSequenceSDETtest" />
-        <item itemvalue="Application.firstCharOfWords" />
-        <item itemvalue="Application.singleNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +169,7 @@
       <workItem from="1729665613881" duration="757000" />
       <workItem from="1730191136403" duration="7540000" />
       <workItem from="1730787156009" duration="3027000" />
-      <workItem from="1731406408936" duration="1042000" />
+      <workItem from="1731406408936" duration="7420000" />
     </task>
     <servers />
   </component>
