@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test14Nov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operationBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/switchCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sumInputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumInputTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sumOfDigitz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumOfDigitModulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodOverloading.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodVariableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodVariableArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test14Nov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test14Nov.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +49,19 @@
     "Application.SumInput.executor": "Run",
     "Application.TestPalindrome.executor": "Run",
     "Application.firstCharOfWords.executor": "Run",
+    "Application.ifElse.executor": "Run",
     "Application.lengthAllWords.executor": "Run",
     "Application.lengthLastWord.executor": "Run",
     "Application.longestSequenceSDETtest.executor": "Run",
+    "Application.methodOverloading.executor": "Run",
     "Application.methodParameter.executor": "Run",
+    "Application.methodVariableArgument.executor": "Run",
+    "Application.operationBoolean.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.singleNumber.executor": "Run",
     "Application.sumInputTest.executor": "Run",
     "Application.sumOfDigitz.executor": "Run",
+    "Application.switchCase.executor": "Run",
     "Application.test14Nov.executor": "Run",
     "Application.testtetstss.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -90,37 +98,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test14Nov">
-    <configuration name="SumInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumInput" />
+  <component name="RunManager" selected="Application.switchCase">
+    <configuration name="ifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ifElse" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="longestSequenceSDETtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="longestSequenceSDETtest" />
+    <configuration name="methodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodParameter" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumInputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumInputTest" />
+    <configuration name="methodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodVariableArgument" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfDigitModulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumOfDigitModulo" />
+    <configuration name="operationBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operationBoolean" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test14Nov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test14Nov" />
+    <configuration name="switchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="switchCase" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -128,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test14Nov" />
-        <item itemvalue="Application.sumInputTest" />
-        <item itemvalue="Application.SumInput" />
-        <item itemvalue="Application.sumOfDigitModulo" />
-        <item itemvalue="Application.longestSequenceSDETtest" />
+        <item itemvalue="Application.switchCase" />
+        <item itemvalue="Application.ifElse" />
+        <item itemvalue="Application.operationBoolean" />
+        <item itemvalue="Application.methodVariableArgument" />
+        <item itemvalue="Application.methodParameter" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +178,11 @@
       <workItem from="1730191136403" duration="7540000" />
       <workItem from="1730787156009" duration="3027000" />
       <workItem from="1731406408936" duration="7420000" />
+      <workItem from="1734403611061" duration="47000" />
+      <workItem from="1734403673492" duration="1884000" />
+      <workItem from="1736148351400" duration="1000" />
+      <workItem from="1736488846786" duration="7000" />
+      <workItem from="1738722240757" duration="2353000" />
     </task>
     <servers />
   </component>

@@ -5,8 +5,8 @@
 public class methodVariableArgument {
     public static void main(String[] args) {
         //2. data array biasa, untuk diproses di congrats
-        int[] values= {80,50,50,50,80};
-        congrats("aldy", values);
+//        int[] values= {80,50,50,50,80};
+//        congrats("aldy", values);
 
         congrats("budi", 80,90,76,80);
     }

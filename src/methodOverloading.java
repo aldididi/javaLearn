@@ -6,7 +6,7 @@ public class methodOverloading {
             //2 reproduce methods
         hello();
         hello("diduy");
-        hello("didi", "dudu");
+        hello("didi","adul");
     }
 // 1 create method
     static void hello(){

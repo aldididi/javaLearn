@@ -1,7 +1,7 @@
 public class test14Nov {
 
     public static void main(String[] args) {
-       helloWorld(indonesia);
+       helloWorld("txt");
 
     }
 
