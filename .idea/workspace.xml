@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operationBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakContinueLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methodReturnValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ternaryOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ifElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ifElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodVariableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodVariableArgument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test14Nov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test14Nov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodReturnValue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +51,20 @@
     "Application.Prime.executor": "Run",
     "Application.SumInput.executor": "Run",
     "Application.TestPalindrome.executor": "Run",
+    "Application.breakContinueLoop.executor": "Run",
+    "Application.doWhileLoop.executor": "Run",
     "Application.firstCharOfWords.executor": "Run",
+    "Application.forEach.executor": "Run",
+    "Application.forLoop.executor": "Run",
     "Application.ifElse.executor": "Run",
     "Application.lengthAllWords.executor": "Run",
     "Application.lengthLastWord.executor": "Run",
     "Application.longestSequenceSDETtest.executor": "Run",
+    "Application.method.executor": "Run",
     "Application.methodOverloading.executor": "Run",
     "Application.methodParameter.executor": "Run",
+    "Application.methodReturnValue.executor": "Run",
+    "Application.methodReturnValue2.executor": "Run",
     "Application.methodVariableArgument.executor": "Run",
     "Application.operationBoolean.executor": "Run",
     "Application.palindrome.executor": "Run",
@@ -62,6 +72,7 @@
     "Application.sumInputTest.executor": "Run",
     "Application.sumOfDigitz.executor": "Run",
     "Application.switchCase.executor": "Run",
+    "Application.ternaryOperation.executor": "Run",
     "Application.test14Nov.executor": "Run",
     "Application.testtetstss.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -98,9 +109,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.switchCase">
-    <configuration name="ifElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifElse" />
+  <component name="RunManager" selected="Application.methodReturnValue2">
+    <configuration name="forEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forEach" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,22 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodVariableArgument" />
+    <configuration name="methodReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodReturnValue" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operationBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operationBoolean" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="switchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="switchCase" />
+    <configuration name="methodReturnValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodReturnValue2" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.switchCase" />
-        <item itemvalue="Application.ifElse" />
-        <item itemvalue="Application.operationBoolean" />
-        <item itemvalue="Application.methodVariableArgument" />
+        <item itemvalue="Application.methodReturnValue2" />
+        <item itemvalue="Application.methodReturnValue" />
         <item itemvalue="Application.methodParameter" />
+        <item itemvalue="Application.method" />
+        <item itemvalue="Application.forEach" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +193,9 @@
       <workItem from="1734403673492" duration="1884000" />
       <workItem from="1736148351400" duration="1000" />
       <workItem from="1736488846786" duration="7000" />
-      <workItem from="1738722240757" duration="2353000" />
+      <workItem from="1738722240757" duration="2541000" />
+      <workItem from="1738809185113" duration="1343000" />
+      <workItem from="1739324083683" duration="2415000" />
     </task>
     <servers />
   </component>
