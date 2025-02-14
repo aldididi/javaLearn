@@ -8,14 +8,14 @@ public class methodVariableArgument {
 //        int[] values= {80,50,50,50,80};
 //        congrats("aldy", values);
 
-        congrats("budi", 80,90,76,80);
+        congrats("budi", 10,10,76,80);
     }
 
     //1 function congrats
     //pakai variabel value int...
     //tidak pakai "int[] values"
     static void congrats(String name, int... values){
-        var total =0;
+        var total =10;
         for (var value: values){
             total += value;
         }

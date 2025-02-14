@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/breakContinueLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodReturnValue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ternaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blacklistString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodParameter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodReturnValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/longestSequenceSDETtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSequenceSDETtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodVariableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodVariableArgument.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,7 @@
     "Application.Prime.executor": "Run",
     "Application.SumInput.executor": "Run",
     "Application.TestPalindrome.executor": "Run",
+    "Application.blacklistString.executor": "Run",
     "Application.breakContinueLoop.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.firstCharOfWords.executor": "Run",
@@ -66,6 +61,7 @@
     "Application.methodReturnValue.executor": "Run",
     "Application.methodReturnValue2.executor": "Run",
     "Application.methodVariableArgument.executor": "Run",
+    "Application.nestedLoop.executor": "Run",
     "Application.operationBoolean.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.singleNumber.executor": "Run",
@@ -94,7 +90,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -109,23 +105,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.methodReturnValue2">
-    <configuration name="forEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forEach" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="methodParameter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodParameter" />
+  <component name="RunManager" selected="Application.blacklistString">
+    <configuration name="blacklistString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blacklistString" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,13 +127,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="methodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodVariableArgument" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nestedLoop" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.blacklistString" />
+        <item itemvalue="Application.nestedLoop" />
+        <item itemvalue="Application.methodVariableArgument" />
         <item itemvalue="Application.methodReturnValue2" />
         <item itemvalue="Application.methodReturnValue" />
-        <item itemvalue="Application.methodParameter" />
-        <item itemvalue="Application.method" />
-        <item itemvalue="Application.forEach" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +191,8 @@
       <workItem from="1736488846786" duration="7000" />
       <workItem from="1738722240757" duration="2541000" />
       <workItem from="1738809185113" duration="1343000" />
-      <workItem from="1739324083683" duration="2415000" />
+      <workItem from="1739324083683" duration="5587000" />
+      <workItem from="1739528317789" duration="6221000" />
     </task>
     <servers />
   </component>

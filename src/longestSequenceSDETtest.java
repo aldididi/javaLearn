@@ -32,4 +32,9 @@ public class longestSequenceSDETtest {
         }
         System.out.println(result);
     }
+
+    private String abcAbdh;
+    private String defJnsduk;
+    private int maxLength;
+
 }
