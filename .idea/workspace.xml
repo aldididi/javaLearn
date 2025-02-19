@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/blacklistString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/longestSequenceSDETtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/longestSequenceSDETtest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodVariableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodVariableArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blacklistString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blacklistString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +47,12 @@
     "Application.TestPalindrome.executor": "Run",
     "Application.blacklistString.executor": "Run",
     "Application.breakContinueLoop.executor": "Run",
+    "Application.countWords.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
     "Application.firstCharOfWords.executor": "Run",
     "Application.forEach.executor": "Run",
     "Application.forLoop.executor": "Run",
+    "Application.hashMap.executor": "Run",
     "Application.ifElse.executor": "Run",
     "Application.lengthAllWords.executor": "Run",
     "Application.lengthLastWord.executor": "Run",
@@ -105,7 +107,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.blacklistString">
+  <component name="RunManager" selected="Application.hashMap">
     <configuration name="blacklistString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blacklistString" />
       <module name="javaLearn" />
@@ -113,15 +115,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodReturnValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodReturnValue" />
+    <configuration name="countWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countWords" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodReturnValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodReturnValue2" />
+    <configuration name="hashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.hashMap" />
         <item itemvalue="Application.blacklistString" />
+        <item itemvalue="Application.countWords" />
         <item itemvalue="Application.nestedLoop" />
         <item itemvalue="Application.methodVariableArgument" />
-        <item itemvalue="Application.methodReturnValue2" />
-        <item itemvalue="Application.methodReturnValue" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +194,8 @@
       <workItem from="1738722240757" duration="2541000" />
       <workItem from="1738809185113" duration="1343000" />
       <workItem from="1739324083683" duration="5587000" />
-      <workItem from="1739528317789" duration="6221000" />
+      <workItem from="1739528317789" duration="7446000" />
+      <workItem from="1739844515999" duration="8707000" />
     </task>
     <servers />
   </component>
