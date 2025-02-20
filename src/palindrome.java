@@ -4,7 +4,7 @@ public class palindrome {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("input text :");
-        String input = s.nextLine();;
+        String input = s.nextLine();
 
         int length = input.length();
         int start = 0;

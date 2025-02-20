@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/countWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jusArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blacklistString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blacklistString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pallindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,8 @@
     "Application.forLoop.executor": "Run",
     "Application.hashMap.executor": "Run",
     "Application.ifElse.executor": "Run",
+    "Application.jusArray.executor": "Run",
+    "Application.jusHash.executor": "Run",
     "Application.lengthAllWords.executor": "Run",
     "Application.lengthLastWord.executor": "Run",
     "Application.longestSequenceSDETtest.executor": "Run",
@@ -66,6 +70,7 @@
     "Application.nestedLoop.executor": "Run",
     "Application.operationBoolean.executor": "Run",
     "Application.palindrome.executor": "Run",
+    "Application.pallindrome.executor": "Run",
     "Application.singleNumber.executor": "Run",
     "Application.sumInputTest.executor": "Run",
     "Application.sumOfDigitz.executor": "Run",
@@ -107,16 +112,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.hashMap">
+  <component name="RunManager" selected="Application.jusArray">
     <configuration name="blacklistString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="blacklistString" />
-      <module name="javaLearn" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countWords" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodVariableArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodVariableArgument" />
+    <configuration name="jusArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jusArray" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -143,13 +141,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="pallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pallindrome" />
+      <module name="javaLearn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.jusArray" />
+        <item itemvalue="Application.nestedLoop" />
+        <item itemvalue="Application.pallindrome" />
         <item itemvalue="Application.hashMap" />
         <item itemvalue="Application.blacklistString" />
-        <item itemvalue="Application.countWords" />
-        <item itemvalue="Application.nestedLoop" />
-        <item itemvalue="Application.methodVariableArgument" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +200,7 @@
       <workItem from="1738809185113" duration="1343000" />
       <workItem from="1739324083683" duration="5587000" />
       <workItem from="1739528317789" duration="7446000" />
-      <workItem from="1739844515999" duration="8707000" />
+      <workItem from="1739844515999" duration="17321000" />
     </task>
     <servers />
   </component>
@@ -225,6 +230,10 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

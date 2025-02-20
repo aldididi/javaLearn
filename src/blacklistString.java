@@ -13,7 +13,7 @@ public class blacklistString {
         // String[] blacklist = {"anjir", "anjim"}
         String kosong = "";
         String blacklist = "anjir";
-        String[] input_array = input.split(" "); // --> {"Saya", "QA", "tiket", "anjir"}
+        String[] input_array = input.split(" "); // --> {"Saya", "anjing", "tiket", "anjir"}
         for (int i = 0; i < input_array.length; i++) {
             if (input_array[i].contains(blacklist)) {
                 kosong = kosong + " [sensor]";
