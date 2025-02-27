@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/jusArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/febCountingPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/febGreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/febMostSoldBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testFeb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blacklistString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blacklistString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pallindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lengthLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lengthLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test14Nov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test14Nov.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +45,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Longest.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.SumInput.executor": "Run",
     "Application.TestPalindrome.executor": "Run",
     "Application.blacklistString.executor": "Run",
     "Application.breakContinueLoop.executor": "Run",
+    "Application.countPairsNumberFEB.executor": "Run",
     "Application.countWords.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
+    "Application.febBookOccurences.executor": "Run",
+    "Application.febCountingPairs.executor": "Run",
+    "Application.febNumberGreater.executor": "Run",
     "Application.firstCharOfWords.executor": "Run",
     "Application.forEach.executor": "Run",
     "Application.forLoop.executor": "Run",
@@ -112,37 +118,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.jusArray">
-    <configuration name="blacklistString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="blacklistString" />
+  <component name="RunManager" selected="Application.febGreaterNumber">
+    <configuration name="febCountingPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="febCountingPairs" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashMap" />
+    <configuration name="febGreaterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="febGreaterNumber" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jusArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jusArray" />
+    <configuration name="febMostSoldBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="febMostSoldBook" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nestedLoop" />
+    <configuration name="lengthLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lengthLastWord" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pallindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pallindrome" />
+    <configuration name="test14Nov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test14Nov" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.jusArray" />
-        <item itemvalue="Application.nestedLoop" />
-        <item itemvalue="Application.pallindrome" />
-        <item itemvalue="Application.hashMap" />
-        <item itemvalue="Application.blacklistString" />
+        <item itemvalue="Application.febGreaterNumber" />
+        <item itemvalue="Application.febCountingPairs" />
+        <item itemvalue="Application.febMostSoldBook" />
+        <item itemvalue="Application.test14Nov" />
+        <item itemvalue="Application.lengthLastWord" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +206,11 @@
       <workItem from="1738809185113" duration="1343000" />
       <workItem from="1739324083683" duration="5587000" />
       <workItem from="1739528317789" duration="7446000" />
-      <workItem from="1739844515999" duration="17321000" />
+      <workItem from="1739844515999" duration="17415000" />
+      <workItem from="1740371055512" duration="1000" />
+      <workItem from="1740463708918" duration="3658000" />
+      <workItem from="1740570088320" duration="4144000" />
+      <workItem from="1740640570982" duration="907000" />
     </task>
     <servers />
   </component>

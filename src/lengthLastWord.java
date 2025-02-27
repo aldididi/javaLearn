@@ -24,7 +24,6 @@ public class lengthLastWord {
         //System.out.println(lastWord);
 
         return lastWord.length();
-
     }
     }
 
