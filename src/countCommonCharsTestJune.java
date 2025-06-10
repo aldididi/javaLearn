@@ -8,6 +8,7 @@ public class countCommonCharsTestJune {
         String input2 = br.readLine();
         int output = solution(input1, input2);
         System.out.println(output);
+        //        input: apple, planet
     }
 
     public static int solution(String input1, String input2){

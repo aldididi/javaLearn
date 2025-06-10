@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abcFeb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/countCommonChars.java" afterDir="false" />
+    <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="adding new test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/febCountingPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/febCountingPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/febMostSoldBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/febMostSoldBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/methodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test14Nov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testFE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/countCommonCharsTestJune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/countCommonCharsTestJune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nonRepeatChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nonRepeatChar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -53,6 +52,7 @@
     "Application.blacklistString.executor": "Run",
     "Application.breakContinueLoop.executor": "Run",
     "Application.countCommonChars.executor": "Run",
+    "Application.countCommonCharsTestJune.executor": "Run",
     "Application.countPairsNumberFEB.executor": "Run",
     "Application.countWords.executor": "Run",
     "Application.doWhileLoop.executor": "Run",
@@ -78,6 +78,7 @@
     "Application.methodReturnValue2.executor": "Run",
     "Application.methodVariableArgument.executor": "Run",
     "Application.nestedLoop.executor": "Run",
+    "Application.nonRepeatChar.executor": "Run",
     "Application.operationBoolean.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.pallindrome.executor": "Run",
@@ -214,6 +215,15 @@
       <workItem from="1749101563697" duration="253000" />
       <workItem from="1749524188485" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="adding new test">
+      <option name="closed" value="true" />
+      <created>1749525623072</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749525623072</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +240,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding new test" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new test" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -241,6 +255,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/countCommonCharsTestJune.java</url>
+          <line>4</line>
+          <properties class="countCommonCharsTestJune" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />

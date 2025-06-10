@@ -9,6 +9,7 @@ public class nonRepeatChar {
         String inputText = inputReader.readLine();
         String result = solution(inputText);
         System.out.println(result);
+//input aabcbcde
     }
 
 
