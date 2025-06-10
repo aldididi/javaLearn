@@ -14,10 +14,12 @@ public class methodOverloading {
     }
 
     static void hello(String name){
+
         System.out.println("hello "+ name);
     }
 
     static void hello(String fName, String lastName){
+
         System.out.println("hello "+ fName + lastName);
     }
 }

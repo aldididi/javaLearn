@@ -7,7 +7,7 @@ public class febCountingPairs {
         //input [1,2,4,5....]
         String[] input = br.readLine().replace("[", "").replace("]", "").split(", ");
         String targetString = br.readLine();
-        //input target
+        //input target 10
 
         int[] nums = new int[input.length];
         for(int i = 0; i < input.length; i++){
@@ -31,7 +31,8 @@ public class febCountingPairs {
                 }
             }
         }
-
         return result;
     }
+
+
 }

@@ -10,19 +10,19 @@ public class febMostSoldBook {
     }
 
 
-    private static String solution(String[] arr) {
+    private static String solution(String[] arrBooks) {
         String result = "";
-        int max = 1;
+        int max = 0;
         int current = 1;
-        for (int i=0; i<arr.length; i++) {
-            for (int j=i+1; j<arr.length; j++) {
-                if (arr[i].equals(arr[j])) {
+        for (int i=0; i<arrBooks.length; i++) {
+            for (int j=i+1; j<arrBooks.length; j++) {
+                if (arrBooks[i].equals(arrBooks[j])) {
                     current++;
                 }
             }
             if (current > max) {
                 max = current;
-                result = arr[i];
+                result = arrBooks[i];
             }
         }
         return result;
