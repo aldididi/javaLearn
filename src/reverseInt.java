@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class reverseInt {
     public static void main(String[] args) {
+//        input: 54321
+//                output 12345
+
         Scanner sc = new Scanner(System.in);
         System.out.println("input number");
         int number = sc.nextInt();

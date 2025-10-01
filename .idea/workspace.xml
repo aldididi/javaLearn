@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="adding new test">
-      <change afterPath="$PROJECT_DIR$/src/SepMostFrequenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeptCountingPairsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeptLongestRunofIdenticalChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeptSecondMostFreq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/angka2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/muksal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mundur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printKebawah.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printKebawah2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/adudu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SeptSecondMostFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeptSecondMostFreq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/muksal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printKebawah.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sde.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Application.SumInput.executor": "Run",
     "Application.TestPalindrome.executor": "Run",
     "Application.abcFeb.executor": "Run",
+    "Application.adudu.executor": "Run",
     "Application.angka2.executor": "Run",
     "Application.blacklistString.executor": "Run",
     "Application.breakContinueLoop.executor": "Run",
@@ -101,9 +101,12 @@
     "Application.operationBoolean.executor": "Run",
     "Application.palindrome.executor": "Run",
     "Application.pallindrome.executor": "Run",
+    "Application.printChar.executor": "Run",
     "Application.printKebawah.executor": "Run",
     "Application.printKebawah2.executor": "Run",
     "Application.reverseInt.executor": "Run",
+    "Application.sal.executor": "Run",
+    "Application.sde.executor": "Run",
     "Application.secondMostFreq.executor": "Run",
     "Application.singleNumber.executor": "Run",
     "Application.sumInputTest.executor": "Run",
@@ -149,37 +152,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.printKebawah2">
-    <configuration name="angka2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="angka2" />
+  <component name="RunManager" selected="Application.test2">
+    <configuration name="adudu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="adudu" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mundur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mundur" />
+    <configuration name="methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="methodOverloading" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printKebawah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printKebawah" />
+    <configuration name="sal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sal" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printKebawah2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="printKebawah2" />
+    <configuration name="sde" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sde" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseInt" />
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test2" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -187,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.printKebawah2" />
-        <item itemvalue="Application.mundur" />
-        <item itemvalue="Application.angka2" />
-        <item itemvalue="Application.printKebawah" />
-        <item itemvalue="Application.reverseInt" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.adudu" />
+        <item itemvalue="Application.methodOverloading" />
+        <item itemvalue="Application.sde" />
+        <item itemvalue="Application.sal" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +262,7 @@
       <workItem from="1758677564463" duration="1414000" />
       <workItem from="1758764776717" duration="2949000" />
       <workItem from="1758776409426" duration="3451000" />
-      <workItem from="1759271895004" duration="3627000" />
+      <workItem from="1759271895004" duration="11225000" />
     </task>
     <task id="LOCAL-00001" summary="adding new test">
       <option name="closed" value="true" />
