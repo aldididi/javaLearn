@@ -9,6 +9,7 @@ public class methodVariableArgument {
 //        congrats("aldy", values);
 
         congrats("budi", 10,10,76,80);
+        abc(2,3,4,12,3);
     }
 
     //1 function congrats
@@ -26,5 +27,9 @@ public class methodVariableArgument {
         } else {
             System.out.println("sorry "+ name +" not passed");
         }
+    }
+
+    static void abc(int ... valuesss){
+        System.out.println(valuesss);
     }
 }

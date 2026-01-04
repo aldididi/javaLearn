@@ -26,7 +26,6 @@ public class switchCase {
         //switch yield
         var nilai2 = "A";
        String selamat;
-
         selamat = switch (nilai2){
             case "A":
                 yield "wow dapat A";

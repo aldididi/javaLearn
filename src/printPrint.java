@@ -1,4 +1,4 @@
-public class printKebawah2 {
+public class printPrint {
     public static void main(String[] args) {
         String input= "brownfoxjump";
         char target ='o';

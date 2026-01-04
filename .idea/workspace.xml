@@ -5,16 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54df56dd-1bee-4c79-a316-5e61e4978a85" name="Changes" comment="adding new test">
-      <change afterPath="$PROJECT_DIR$/src/adudu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/checkArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countOccurences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learFunctionScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnFunctionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnFunctionMethodArgumentV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnFunctionP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnFunctionPrimeArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnFunctionSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learnLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testNov.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testOneOct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testabc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testabcOOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testabcd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeptSecondMostFreq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeptSecondMostFreq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/muksal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/printKebawah.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestPalindromeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adudu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ifElse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/methodVariableArgument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/methodVariableArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nonRepeatChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nonRepeatChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/printKebawah2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/printPrint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reverseInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/reverseInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sde.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sde.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/switchCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/switchCase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +48,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Input.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,98 +69,114 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Longest.executor": "Run",
-    "Application.Prime.executor": "Run",
-    "Application.SepMostFrequenNumber.executor": "Run",
-    "Application.SeptLongestRunofIdenticalChars.executor": "Run",
-    "Application.SeptSecondMostFreq.executor": "Run",
-    "Application.SumInput.executor": "Run",
-    "Application.TestPalindrome.executor": "Run",
-    "Application.abcFeb.executor": "Run",
-    "Application.adudu.executor": "Run",
-    "Application.angka2.executor": "Run",
-    "Application.blacklistString.executor": "Run",
-    "Application.breakContinueLoop.executor": "Run",
-    "Application.countCommonChars.executor": "Run",
-    "Application.countCommonCharsTestJune.executor": "Run",
-    "Application.countPairsNumberFEB.executor": "Run",
-    "Application.countWords.executor": "Run",
-    "Application.doWhileLoop.executor": "Run",
-    "Application.febBookOccurences.executor": "Run",
-    "Application.febCountingPairs.executor": "Run",
-    "Application.febGreaterNumber.executor": "Run",
-    "Application.febMostSoldBook.executor": "Run",
-    "Application.febNumberGreater.executor": "Run",
-    "Application.firstCharOfWords.executor": "Run",
-    "Application.forEach.executor": "Run",
-    "Application.forLoop.executor": "Run",
-    "Application.hashMap.executor": "Run",
-    "Application.homeWork1.executor": "Run",
-    "Application.homeWork2.executor": "Run",
-    "Application.homeWork2PassengerSeat.executor": "Run",
-    "Application.homeWork3.executor": "Run",
-    "Application.ifElse.executor": "Run",
-    "Application.java1.executor": "Run",
-    "Application.jusArray.executor": "Run",
-    "Application.jusHash.executor": "Run",
-    "Application.lengthAllWords.executor": "Run",
-    "Application.lengthLastWord.executor": "Run",
-    "Application.longestSequenceSDETtest.executor": "Run",
-    "Application.method.executor": "Run",
-    "Application.methodOverloading.executor": "Run",
-    "Application.methodParameter.executor": "Run",
-    "Application.methodReturnValue.executor": "Run",
-    "Application.methodReturnValue2.executor": "Run",
-    "Application.methodVariableArgument.executor": "Run",
-    "Application.mostFrequenNumber.executor": "Run",
-    "Application.mundur.executor": "Run",
-    "Application.nestedLoop.executor": "Run",
-    "Application.nonRepeatChar.executor": "Run",
-    "Application.operationBoolean.executor": "Run",
-    "Application.palindrome.executor": "Run",
-    "Application.pallindrome.executor": "Run",
-    "Application.printChar.executor": "Run",
-    "Application.printKebawah.executor": "Run",
-    "Application.printKebawah2.executor": "Run",
-    "Application.reverseInt.executor": "Run",
-    "Application.sal.executor": "Run",
-    "Application.sde.executor": "Run",
-    "Application.secondMostFreq.executor": "Run",
-    "Application.singleNumber.executor": "Run",
-    "Application.sumInputTest.executor": "Run",
-    "Application.sumOfDigitz.executor": "Run",
-    "Application.switchCase.executor": "Run",
-    "Application.ternaryOperation.executor": "Run",
-    "Application.test14Nov.executor": "Run",
-    "Application.testtetstss.executor": "Run",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/aldymochamadheryana/Documents/dev/javaLearn",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Input.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SepMostFrequenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeptLongestRunofIdenticalChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SeptSecondMostFreq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abcFeb.executor&quot;: &quot;Run&quot;,
+    &quot;Application.adudu.executor&quot;: &quot;Run&quot;,
+    &quot;Application.angka2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.blacklistString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.breakContinueLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countCommonChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countCommonCharsTestJune.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countOccurences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countPairsNumberFEB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.febBookOccurences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.febCountingPairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.febGreaterNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.febMostSoldBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.febNumberGreater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.fibo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.firstCharOfWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forEach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.forLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.hashMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork2PassengerSeat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.homeWork3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifElse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.java1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jusArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.jusHash.executor&quot;: &quot;Run&quot;,
+    &quot;Application.learFunctionScope.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.learnFunctionMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.learnFunctionMethodArgumentV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.learnFunctionP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.learnFunctionPrimeArmstrongNumber.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.learnFunctionSwap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.learnLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lengthAllWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.lengthLastWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.longestSequenceSDETtest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodOverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodParameter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodReturnValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodReturnValue2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.methodVariableArgument.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mostFrequenNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mundur.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nestedLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nonRepeatChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operationBoolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pallindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printKebawah.executor&quot;: &quot;Run&quot;,
+    &quot;Application.printKebawah2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseInt.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.sal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sde.executor&quot;: &quot;Run&quot;,
+    &quot;Application.secondMostFreq.executor&quot;: &quot;Run&quot;,
+    &quot;Application.singleNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumInputTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumOfDigitz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ternaryOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test14Nov.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testNov.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testOneOct.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testabc.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testabcOOP.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testtetstss.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aldymochamadheryana/Documents/dev/javaLearn&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -152,37 +188,37 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test2">
-    <configuration name="adudu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="adudu" />
+  <component name="RunManager" selected="Application.testNov">
+    <configuration name="checkArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checkArray" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="methodOverloading" />
+    <configuration name="learnLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learnLoop" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sal" />
+    <configuration name="testNov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNov" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sde" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sde" />
+    <configuration name="testabc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testabc" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test2" />
+    <configuration name="testabcOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testabcOOP" />
       <module name="javaLearn" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -190,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.adudu" />
-        <item itemvalue="Application.methodOverloading" />
-        <item itemvalue="Application.sde" />
-        <item itemvalue="Application.sal" />
+        <item itemvalue="Application.testNov" />
+        <item itemvalue="Application.testabc" />
+        <item itemvalue="Application.testabcOOP" />
+        <item itemvalue="Application.checkArray" />
+        <item itemvalue="Application.learnLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +298,23 @@
       <workItem from="1758677564463" duration="1414000" />
       <workItem from="1758764776717" duration="2949000" />
       <workItem from="1758776409426" duration="3451000" />
-      <workItem from="1759271895004" duration="11225000" />
+      <workItem from="1759271895004" duration="19057000" />
+      <workItem from="1759399020105" duration="635000" />
+      <workItem from="1759847921857" duration="16054000" />
+      <workItem from="1759921169123" duration="657000" />
+      <workItem from="1760166436244" duration="13734000" />
+      <workItem from="1760428256867" duration="1286000" />
+      <workItem from="1760523716512" duration="2445000" />
+      <workItem from="1760648280245" duration="7000" />
+      <workItem from="1762409070713" duration="3308000" />
+      <workItem from="1762503467093" duration="3416000" />
+      <workItem from="1763967546013" duration="177000" />
+      <workItem from="1763967737928" duration="1023000" />
+      <workItem from="1763968786587" duration="1915000" />
+      <workItem from="1764082656290" duration="4323000" />
+      <workItem from="1764140553173" duration="5036000" />
+      <workItem from="1764146468323" duration="4448000" />
+      <workItem from="1764151499806" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="adding new test">
       <option name="closed" value="true" />
@@ -305,6 +357,42 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/learFunctionScope.java</url>
+          <line>1</line>
+          <properties class="learFunctionScope" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/methodVariableArgument.java</url>
+          <line>5</line>
+          <properties class="methodVariableArgument" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/learnFunctionPrimeArmstrongNumber.java</url>
+          <line>3</line>
+          <properties class="learnFunctionPrimeArmstrongNumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/learnLoop.java</url>
+          <line>59</line>
+          <properties class="learnLoop" method="countdown">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="4" />
@@ -315,5 +403,13 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
